@@ -1,2 +1,2 @@
 # learn_git
-## learn git
+## new_course
